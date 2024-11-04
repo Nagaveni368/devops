@@ -2,3 +2,5 @@ git
 git config --global user.name "Nagaveni368"
 git config --global user.name "nagavenitrnagu802@gmail.com"
 git clone https://github.com/Nagaveni368/devops.git
+cd foldername
+git pull origin main
